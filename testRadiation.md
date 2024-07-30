@@ -87,18 +87,18 @@ By following these procedures and utilizing these algorithms, manufacturers can 
 
 
 
-resources : 
+#### resources : 
 https://www.ijvdcs.org/uploads/524361IJVDCS2672-94.pdf
-pseudo code : 
+** pseudo code : **
 file:///C:/Users/sarah/Downloads/5314-5328-1-PB%20(1).pdf
 
 
-Radiation tests : 
+#### Radiation tests : 
 https://www.sciencedirect.com/science/article/pii/S0273117724004769
 https://theses.hal.science/tel-01954572/file/Viyas_Gupta_2017.pdf
 https://nepp.nasa.gov/docuploads/4f678de9-9f55-4e2e-863df9c9f35db603/w-4_nguyen-flash%20memory.pdf
 
-Nand flash memory :
+#### Nand flash memory :
 https://www.ijeat.org/wp-content/uploads/papers/v2i4/D1396042413.pdf
 https://patents.google.com/patent/CN111653305A/en
 https://www.researchgate.net/publication/3943092_Flash_memory_built-in_self-test_using_March-like_algorithms
